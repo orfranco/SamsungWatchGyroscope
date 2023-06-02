@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJiIkxpvJO9qJFuTsqSaeyZ3Ivwnp6elZjQqshZIuRtCXLNerlhf/S/4zSPRP2Hv1Z+FQ9B58ZGDSMe9rsSJrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\97250\\source\\repos\\Sensors\\Sensors\\Sensors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\97250\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\skiasharp.nativeassets.tizen\\2.88.3\\skiasharp.nativeassets.tizen.2.88.3.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\skiasharp.views\\2.88.3\\skiasharp.views.2.88.3.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\skiasharp.views.forms\\2.88.3\\skiasharp.views.forms.2.88.3.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\tizen.net\\10.0.0.17508\\tizen.net.10.0.0.17508.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\tizen.net.api6\\6.0.0.14995\\tizen.net.api6.6.0.0.14995.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\tizen.wearable.circularui\\1.5.0\\tizen.wearable.circularui.1.5.0.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\97250\\source\\repos\\Sensors\\Sensors\\Sensors.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\97250\\source\\repos\\Sensors\\Sensors\\Sensors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\97250\\source\\repos\\Sensors\\Sensors\\Sensors.csproj",
+        "projectName": "Sensors",
+        "projectPath": "C:\\Users\\97250\\source\\repos\\Sensors\\Sensors\\Sensors.csproj",
+        "packagesPath": "C:\\Users\\97250\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\97250\\source\\repos\\Sensors\\Sensors\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97250\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "tizen60"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "tizen60": {
+            "targetAlias": "tizen60",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "tizen60": {
+          "targetAlias": "tizen60",
+          "dependencies": {
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.3, )"
+            },
+            "SkiaSharp.Views": {
+              "target": "Package",
+              "version": "[2.88.3, )"
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[2.88.3, )"
+            },
+            "Tizen.NET": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.0.17508, )",
+              "autoReferenced": true
+            },
+            "Tizen.Wearable.CircularUI": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

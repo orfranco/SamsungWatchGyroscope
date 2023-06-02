@@ -1,0 +1,17 @@
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\Sensors.dll
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\Sensors.pdb
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\SkiaSharp.dll
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\SkiaSharp.Views.Tizen.dll
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\SkiaSharp.Views.Forms.dll
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.Renderer.dll
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.dll
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Core.dll
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Platform.dll
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Xaml.dll
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\Sensors.deps.json
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\bin\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\shared\res\Sensors.png
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\tpkroot\tizen-manifest.xml
+C:\Users\97250\source\repos\Sensors\Sensors\bin\Debug\tizen60\org.tizen.example.Sensors-1.0.0.tpk
